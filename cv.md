@@ -2,6 +2,7 @@
 #### __PROFILE__
 
 A highly organized and detail-oriented specialist with experience in accounting, financial and tax accounting and providing administrative support to executives in matters of interaction with employees and higher authorities. Now I focused on development in the field of IT, so I improve my skills and knowledge to apply them in the future.
+
 ___
 
 #### __CONTACTS__
@@ -13,12 +14,14 @@ ___
 + [GitHub](https://github.com/julia-volodko)
 
 _Location: Grodno, Belarus_
+
 ___
 #### __LANGUAGES__
 
 _English B1 (in progress)_
 
 _German A1_
+
 ___
 
 
@@ -34,6 +37,7 @@ _Quality Assurance Engineer Course_
 
 #### __The Rolling Scopes School__ - _(in progress)_
 _JavaScript/Front-end. Stage 0 Course_
+
 ___
 #### __SKILLS AND KNOWLEDGE__
 + HTML&CSS
@@ -48,15 +52,16 @@ ___
 + Client-server architecture (HTTP-request, server state response classes)
 _____
 #### __CODE EXAMPLE__
-    function checkAge(age) {
-    if (age < 18) {
-    return false;
-    } else {
-    return alert ('Доступно');
+function checkAge(age) {
+    if (age <18) {
+        retirne false;
+        { else {
+            return alert ('Доступно');
         }
-    }
-
+        }
+  
 ___
+
 #### __WORK EXPERIENCE__
 + Work with HTML-documents
 + Work with documents and reports, preparation of accounting, tax reporting and reporting for administration of High Technologies Park Belarus about the results of company performance
