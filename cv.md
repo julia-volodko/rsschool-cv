@@ -51,15 +51,18 @@ ___
 + Software development models and cycle (Waterfall, Agile: Srum, Kanban)
 + Client-server architecture (HTTP-request, server state response classes)
 _____
+
 #### __CODE EXAMPLE__
+``` 
 function checkAge(age) {
     if (age <18) {
         retirne false;
-        { else {
-            return alert ('Доступно');
-        }
-        }
-  
+    } else {
+        return alert ('Доступно');
+    }
+}
+  ```
+
 ___
 
 #### __WORK EXPERIENCE__
