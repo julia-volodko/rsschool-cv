@@ -7,7 +7,7 @@ ___
 #### __CONTACTS__
 
 + Phone: +375295455994 
-+ Telegram: @julia_volodko 
++ [Telegram](https://t.me/julia_volodko) 
 + E-mail: yuliya.volodko42@gmail.com
 + [LinkedIN](https://www.linkedin.com/in/julia-volodko-a962a2265/)
 + [GitHub](https://github.com/julia-volodko)
