@@ -1,13 +1,136 @@
 body {
-    background-color: lightblue;
-  }
+  background-color: #b8b29c;
+  font-family: 'Mukta', sans-serif;
+  color: black;
+  font-size: 30px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;}
+
+.header {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
   
-  h1 {
-    color: white;
-    text-align: center;
-  }
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  color: whitesmoke;
+}
+html {
+  scroll-behavior: smooth; 
+}
+.nav-link {
+  padding: 20px;
+  line-height: 70px;
+  color: rgb(73, 32, 3);
+  text-decoration: none;
   
-  p {
-    font-family: verdana;
+}
+.container2 {
+position: relative;
+width: 100%;
+max-width: 1600px;
+min-height: 1400px;
+background: white;
+display: grid;
+grid-template-columns: 1fr 2fr;
+}
+.container2 .leftside {
+  position: relative;
+  background: whitesmoke;
+  padding: 40px;
+}
+.leftside img {
+  position: absolute;
+  width: 80%;
+  border-radius: 80%;
+  
+}
+.container2 .rightside {
+  position: relative;
+  background: rgb(245, 222, 179);
+  padding: 40px;
+}
+
+h2 {text-align: center;
+  font-size: 70px;
+  margin: 20px;
+}
+
+.title {text-align:left;
+  font-size: 25px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  line-height: 1;
+  border-bottom: 1px solid;
+}
+
+h4 {text-align: justify;
+font-size: 20px;
+font-weight: 100;
+line-height: 1.1}
+
+h19 {
+  text-align:left;
+  font-size: 20px;
+  font-weight: bolder;
+  line-height: 1;
+  font-style: italic;
+  padding-top: 350px;
+}
+
+h5 {text-align:left;
+  font-size: 25px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-top: 350px;}
+
+h6 {
+  text-align:left;
+  font-size: 25px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-top: 0;}
+
+.left-list {
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 1.2}
+
+.education_list {text-align: justify;
     font-size: 20px;
+    font-weight: 100;
+    line-height: 1.1;
+    font-weight: bold}
+h10  {text-align: justify;
+      font-size: 20px;
+      font-weight: 100;
+      line-height: 1.1;
+      }
+h9, h12, h14  {text-align: justify;
+      font-size: 20px;
+      font-weight: 100;
+      line-height: 1.1;
+    font-style: italic;
+}
+.code  {font-size: 20px;
+  line-height: 1.1;
   }
+footer img {position: absolute;
+  width: 3.5%;
+  left:80%;
+  padding: auto;
+  }
+.footer {background-color:white;}
+
+p {text-align: right;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 1.1;}
